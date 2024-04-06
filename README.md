@@ -1,4 +1,4 @@
-<h1>Frontend developer</h1>
+<h1 align="center">Frontend developer</h1>
 
 <div align="center"> 
   <a href="mailto:mouad.elmaslouhi.2003@gmail.com">
