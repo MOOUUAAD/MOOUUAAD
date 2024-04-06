@@ -1,8 +1,8 @@
-<h1 align="center">Frontend developer</h1>
+<h1 align="center">Frontend developer 💻</h1>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
@@ -11,7 +11,7 @@
 
 <hr/>
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Contact 🔗</h2>
 <br/>
 <div align="center"> 
   <a href="mailto:mouad.elmaslouhi.2003@gmail.com">
