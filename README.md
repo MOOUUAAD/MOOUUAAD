@@ -14,7 +14,7 @@
 <h2 align="center">Contact 🔗</h2>
 <br/>
 <div align="center"> 
-  <a href="mailto:mouad.elmaslouhi.2003@gmail.com">
+  <a href="mailto:mouad.elmaslouhi.24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/mouad-el-maslouhi-438038295" target="_blank">
