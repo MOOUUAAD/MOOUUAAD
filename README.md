@@ -5,7 +5,7 @@
 <h2 align="center">Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=next,react,tailwind,bootstrap,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=next,react,tailwind,bootstrap,html,css,javascript" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,firebase,c,mysql,git,github" /><br>
 </div>
 
