@@ -1,4 +1,4 @@
-<h1 align="center">Frontend developer 💻</h1>
+<h1 align="center">Frontend developer </h1>
 
  <hr/>
  
