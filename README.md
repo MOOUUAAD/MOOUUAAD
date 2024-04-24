@@ -1,4 +1,4 @@
-<h1 align="center">Frontend developer </h1>
+<h1 align="center">Frontend Developer </h1>
 
  <hr/>
  
@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,react,tailwind,bootstrap,html,css,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,firebase,c,mysql,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=vite,typescript,firebase,c,mysql,git,github" /><br>
 </div>
 
 <hr/>
