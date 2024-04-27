@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Developer </h1>
 
-<h3>Portfolio: <a href="https://my-portfolio-one-flax-57.vercel.app/">link</a></h3>
+<h3 align="center"><a href="https://my-portfolio-one-flax-57.vercel.app/" target="_blank">PORTFOLIO</a></h3>
 
  <hr/>
  
