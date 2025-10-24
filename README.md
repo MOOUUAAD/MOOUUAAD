@@ -1,4 +1,4 @@
-<h1 align="center">Software Developer </h1>
+<h1 align="center">Computer Science Student</h1>
 
 <h3 align="center"> <a  href="https://my-portfolio-mouad.vercel.app/" target="_blank">PORTFOLIO</a></h3>
 
